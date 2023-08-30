@@ -1,4 +1,4 @@
-module github.com/upbound/upjet-provider-template
+module github.com/nanitesoftware/provider-opennebula
 
 go 1.19
 
